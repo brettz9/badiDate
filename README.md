@@ -31,6 +31,10 @@ The main source of uncertainty for far future dates comes from the uncertainty o
 A detailed analysis of uncertainties is included in the code. The range of dates is limited to until 20 March 2351, as the
 uncertainty in ΔT means the date of Naw-Rúz 2352 AD produced by the algorithm may not be correct.
 
+## CLI
+
+![cli.svg](cli.svg)
+
 ## Changelog
 
 ### 2.1.0
