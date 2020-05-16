@@ -1,5 +1,5 @@
 /* eslint-disable complexity */
-import babel from 'rollup-plugin-babel';
+import babel from '@rollup/plugin-babel';
 import replace from 'rollup-plugin-re';
 import {terser} from 'rollup-plugin-terser';
 
